@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Reposter OpenSea Collection app  
 
-You can use the [editor on GitHub](https://github.com/pragmatikos-chronos/reposter-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You have your favorite projects, but the incessant clicking between tabs is driving you nuts. You wish you could keep track of ONLY the collections that matter to you.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
